@@ -1,17 +1,17 @@
 /* Header, footer */
 
 header, footer {
-  background-color: #38b6ff;
-background: purple;
+  background-color: #C0C0C0;
+background: black;
 }
 h1{
 	color: white;
 	font-family: Geneva, Arial, FreeMono, monospace;
-	background-color:#38b6ff;
+	background-color:black;
 }
 .p11{
-	background: linear-gradient(30deg, yellow, red, blue);
-	border: 2px solid #38b6ff;
+	background: grey;
+	border: 2px solid #c0c0c0;
 	padding:10px;
 	
 
@@ -24,14 +24,14 @@ h1{
 }
 
 .p22{
-	background: linear-gradient(30deg, #FFD700, #20B2AA);
+	background: gray;
 	padding: 10px;
 	border-radius: 10px;
 	border: 2px solid #38b6ff; 
 	
 }
 body{
-	background:orange;
+	background:#FAEBD7;
 }
 /*menu*/
 #nav{
@@ -41,7 +41,7 @@ body{
 	font-family: Arvo, serif;
 	font-size: 20px;
 	text-transform: uppercase;
-	background:linear-gradient(to top, orange, purple);
+	background:black;
 }
 #nav li{
 	display: inline;
@@ -64,7 +64,7 @@ h1{
 	color:gold;
 }
 .carousel a:hover {
-	background: linear-gradient(to bottom, orange, purple);
+	background: #FAEBD7;
 
 }
 h2{
